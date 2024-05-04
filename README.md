@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @loisgh
 - 👀 I’m interested in anything related to Python, AWS, Containers or the cloud in general. 
-- 🌱 I’m currently learning Django. 
-- 💞️ I’m looking to collaborate on anything cloud related. 
 - 📫 How to reach me loisgh@gmail.com
 
 <!---
